@@ -20,14 +20,14 @@
         }
       ]
     },
-    {
-      "title": "CONTINUE WATCHING",
+    { 
+      "title": "LIVE TV",
       "apiType": "hw",
       "action": "0",
-      "colCell": "homevodcolcell",
-      "showMore": "1",
-      "type": "11",
-      "count": "20"
+      "colCell": "homechannelcolcell",
+      "showMore": "0",
+      "type": "9",
+      "count": "3"
     }
   ]
 }
