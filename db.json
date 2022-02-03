@@ -1,8 +1,17 @@
 {
-  "main":
+  "request":
   {
     "request": 
     [
+      { 
+        "title": "LIVE TV",
+        "apiType": "hw",
+        "action": "0",
+        "colCell": "homechannelcolcell",
+        "showMore": "0",
+        "type": "9",
+        "count": "3"
+      },
       {
         "title": "BANNER",
         "apiType": "hw",
@@ -21,15 +30,6 @@
             ]
           }
         ]
-      },
-      { 
-        "title": "LIVE TV",
-        "apiType": "hw",
-        "action": "0",
-        "colCell": "homechannelcolcell",
-        "showMore": "0",
-        "type": "9",
-        "count": "3"
       }
     ]
   }
